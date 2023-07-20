@@ -1,5 +1,6 @@
 # Movie Industry Analysis
 
+#![Image Alt Text](path_to_image_file)
 
 
 
