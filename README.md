@@ -84,6 +84,8 @@ The analysis was conducted using Python with the following libraries:
     |- scatter_plot.png
     
     |- bar_chart.png
+
+     |- line_plot.png
     
 |- README.md
 
