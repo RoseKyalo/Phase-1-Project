@@ -1,6 +1,6 @@
 # Movie Industry Analysis
 
-#![Image Alt Text](path_to_image_file)
+![Image Alt Text](Images/https://github.com/RoseKyalo/Phase-1-Project/blob/main/Images/Best-Tips-to-write-a-film-analysis-Essay-2-1.webp)
 
 
 
