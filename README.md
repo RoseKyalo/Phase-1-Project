@@ -60,7 +60,7 @@ Based on the analysis, we recommend the following:
 5. Allocate budgets strategically to maximize profitability and ensure a positive return on investment.
 
 ## Conclusion
-The movie industry analysis reveals a promising and vibrant market with exciting opportunities for company X. By leveraging global appeal, learning from successful movies, and making prudent budget decisions, company X can position itself for success in this dynamic and ever-evolving industry.
+The innsights on profitability of movies reveals a promising and vibrant market with exciting opportunities for company X. By leveraging global appeal, learning from successful movies, and making prudent budget decisions, company X can position itself for success in this dynamic and ever-evolving industry.
 
 For detailed insights and code implementation, refer to the Jupyter Notebook provided in this repository.
 
