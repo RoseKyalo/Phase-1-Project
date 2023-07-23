@@ -1,4 +1,4 @@
-# Insights on the Popularity and Profitability of Movies from the Year 1920 to 2020.
+# Insights on the Profitability of Movies from the Year 1920 to 2020.
 
 #### Author:Rose Kyalo
 
