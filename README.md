@@ -1,4 +1,6 @@
-# Movie Industry Analysis
+# Insights on the Popularity and Profitability of Movies from 1920 to 2020
+
+#### Author:Rose Kyalo
 
 ![Image Alt Text](/Images/readme_image.webp)
 
