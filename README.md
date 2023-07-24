@@ -8,6 +8,7 @@
 
 
 
+
 This repository contains the analysis of the movie industry using "The Numbers Movie Budget" dataset from The Numbers website. The analysis was performed using Python's Pandas DataFrame to explore the popularity and profitability of movies from 1920 to 2020.
 
 ## Overview
