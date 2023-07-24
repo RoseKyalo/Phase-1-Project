@@ -2,7 +2,7 @@
 
 #### Author:Rose Kyalo
 
-![Image Alt Text](/Images/readme_image.webp)
+![Image Alt Text](/Images/readme_image)
 
 
 
